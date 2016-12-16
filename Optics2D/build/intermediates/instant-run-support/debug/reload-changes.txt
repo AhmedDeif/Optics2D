@@ -1,0 +1,2 @@
+CHANGED,/Users/ahmedabodeif1/Desktop/untitled folder/AndroidUnity/Optics2D/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/DefaultCompany/Optics2D/MainActivity$override.class
+CHANGED,/Users/ahmedabodeif1/Desktop/untitled folder/AndroidUnity/Optics2D/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

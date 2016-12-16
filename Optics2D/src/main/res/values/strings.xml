@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OpticsHCI</string>
+    <string name="about_us_text">Optics Lab is an application for assisting students in understanding the refractive index experiment. \n  \n \n This application was designed and implemented in the German University in Cairo. \n \n \n \n Nesreen Mamdouh \n Rana El Bendary \n Ahmed Adel \n Wael Abouelsaadat </string>
+    <string name="guide_text"> The refractive index (n) of a transparent material can be determined by measuring the angle of incidence and the angle of refraction as a ray of light enters, or leaves the material. Refractive index is a number that indicates how fast light travels in a transparent medium. The higher the refractive index the slower the speed of light in that medium.Snell\'s Law will be used to determine the index of refraction. Snell\'s Law gives a relationship between the angle of incidence Θ_1 and its medium\'s refractive index n_1 and the angle of refraction Θ_2 and its medium\'s refractive index n_2 using the equation n_1*sin(Θ_1) = n_2 * sin(Θ_2).</string>
+
+</resources>
